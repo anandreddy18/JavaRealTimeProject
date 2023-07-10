@@ -10,6 +10,8 @@ public class App
     {
 
         String s = "hi";
+        int j = 5;
+        
 
         int i = 10;
 
